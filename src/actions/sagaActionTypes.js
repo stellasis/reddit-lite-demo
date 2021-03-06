@@ -1,0 +1,9 @@
+// Action types with side effects :)
+
+// Threads
+export const LOAD_THREADS_DATA_ASYNC = 'LOAD_THREADS_DATA_ASYNC'
+export const LOAD_MORE_THREADS_DATA_ASYNC = 'LOAD_MORE_THREADS_DATA_ASYNC'
+
+// Comments
+export const LOAD_COMMENTS_ASYNC = 'LOAD_COMMENTS_ASYNC'
+export const LOAD_MORE_COMMENTS_ASYNC = 'LOAD_MORE_COMMENTS_ASYNC'
